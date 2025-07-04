@@ -4,8 +4,6 @@
 1. 只有 787、784、790、788、783 开头的节点能访问 ChatGPT 等使用了 Cloudflare CDN 的网站，且访问也不稳定  
    [比如这些网站](./assets/cloudflareCDN.md)
 
-<br><br> 
-
 2. IP 为数据中心 IP，且会强制随机切换。对账号安全要求高的公司会对其限制，主要问题：  
    - Instagram、Facebook 等 Meta 的产品，一注册就封号  
    - 加速 Steam 上游戏有封号风险  
@@ -33,7 +31,7 @@
 
 <div align="center">
 
-#**以下为新手必看**
+**以下为新手必看**
 
 </div>
 
