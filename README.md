@@ -23,7 +23,7 @@
 
 如果你不了解订阅链接，以下是详细教程：  
 
-**[安卓]()**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[苹果手机和 iPad]()**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Windows]()**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[苹果电脑]()**
+**[安卓]()**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[iPhone和 iPad]()**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Windows]()**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Mac电脑]()**
 
 > 安卓指所有国产手机和平板，比如小米、OPPO、vivo、华为（不能是纯血鸿蒙系统）等
 
