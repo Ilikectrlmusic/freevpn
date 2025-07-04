@@ -34,10 +34,9 @@
 ---
 
 <div align="center">
-
-<span style="color: red;"># 以下为新手必看</span>
-
+  <span style="color: red;"># 以下为新手必看</span>
 </div>
+
 
 ## 为什么要翻墙？
 
