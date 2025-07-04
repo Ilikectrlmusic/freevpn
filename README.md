@@ -1,4 +1,8 @@
+<div align="center">
+
 # 这是一个公益免费VPN
+
+</div>
 
 ## 缺点：
 1. 只有 787、784、790、788、783 开头的节点能访问 ChatGPT 等使用了 Cloudflare CDN 的网站，且访问也不稳定  
