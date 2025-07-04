@@ -34,7 +34,7 @@
 ---
 
 <div align="center">
-  <span style="color: red;"># 以下为新手必看</span>
+# 以下为新手必看</span>
 </div>
 
 
