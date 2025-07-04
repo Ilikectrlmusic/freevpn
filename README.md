@@ -8,6 +8,7 @@
    - 加速 Steam 上游戏有封号风险  
    - TikTok 发视频会限流  
    - 访问 Google 会要求人机验证  
+
 但大部分都没影响，比如：X（原推特）、YouTube 等
 
 ## 使用教程
@@ -20,7 +21,7 @@
 **[安卓]()**&nbsp;&nbsp;&nbsp;**[苹果手机和 iPad]()**&nbsp;&nbsp;&nbsp;**[Windows]()**&nbsp;&nbsp;&nbsp;**[苹果电脑]()**
 
 > 安卓指所有国产手机和平板，比如小米、OPPO、vivo、华为（不能是纯血鸿蒙系统）等
-<br><br> 
+
 <br><br> 
 <br><br> 
 <br><br> 
@@ -28,7 +29,9 @@
 ---
 
 <div align="center">
-#以下为新手必看
+
+#**以下为新手必看**
+
 </div>
 
 ## 为什么要翻墙？
