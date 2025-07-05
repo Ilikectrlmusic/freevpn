@@ -39,8 +39,13 @@
 
 </div>
 
-[VPN的原理是什么](./assets/theory.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[翻墙的方式有哪些](./assets/VPN.md)
+<div align="center">
 
+**[VPN的原理是什么]**(./assets/theory.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[翻墙的方式有哪些](./assets/VPN.md)**  
+
+</div>
+
+<br><br>  
 
 ## 为什么要翻墙？
 
