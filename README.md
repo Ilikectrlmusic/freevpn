@@ -20,7 +20,7 @@
 如果你知道订阅链接是什么，直接使用（注意看用作提示的节点，有效期过了记得更新订阅）  
 `https://gitee.com/leohuangdev/subscribe/raw/master/subscribe.txt`
 
-如果你不了解订阅链接，以下是详细教程：  
+如果你不了解订阅链接，以下是为纯小白提供的详细教程：  
 
 **<a href="./ios.md" target="_blank">iPhone和 iPad</a>**&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;**<a href="./android.md" target="_blank">安卓</a>**&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;**<a href="./windows.md" target="_blank">Windows</a>**&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;**<a href="./mac.md" target="_blank">Mac电脑</a>**
 
