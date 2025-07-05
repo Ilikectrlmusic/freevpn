@@ -5,8 +5,7 @@
 </div>
 
 ## 缺点：
-1. 只有 787、784、790、788、783 开头的节点能访问 ChatGPT 等使用了 Cloudflare CDN 的网站，且访问也不稳定  
-   <a href="./assets/cloudflareCDN.md" target="_blank">比如这些网站</a>
+1. 只有 787、784、790、788、783 开头的节点能访问 ChatGPT 等使用了 Cloudflare CDN 的网站，且访问也不稳定。<a href="./assets/cloudflareCDN.md" target="_blank">比如这些网站</a>
 
 2. IP 为数据中心 IP，且会强制随机切换。对账号安全要求高的公司会对其限制，主要问题：  
    - Instagram、Facebook 等 Meta 的产品，一注册就封号  
