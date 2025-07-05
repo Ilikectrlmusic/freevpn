@@ -5,7 +5,8 @@
 </div>
 
 ## 缺点：
-1. 只有 787、784、790、788、783 开头的节点能访问 ChatGPT 等使用了 Cloudflare CDN 的网站，且访问也不稳定。<a href="./assets/cloudflareCDN.md" rel="noopener noreferrer" target="_blank">比如这些网站</a>
+1. 只有 787、784、790、788、783 开头的节点能访问 ChatGPT 等使用了 Cloudflare CDN 的网站，且访问也不稳定  
+   [比如这些网站](./assets/cloudflareCDN.md)
 
 2. IP 为数据中心 IP，且会强制随机切换。对账号安全要求高的公司会对其限制，主要问题：  
    - Instagram、Facebook 等 Meta 的产品，一注册就封号  
@@ -22,7 +23,7 @@
 
 如果你不了解订阅链接，以下是为纯小白提供的详细教程：  
 
-**<a href="./ios.md" rel="noopener noreferrer" target="_blank">iPhone和 iPad</a>**&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;**<a href="./android.md" rel="noopener noreferrer" target="_blank">安卓</a>**&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;**<a href="./windows.md" rel="noopener noreferrer" target="_blank">Windows</a>**&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;**<a href="./mac.md" rel="noopener noreferrer" target="_blank">Mac电脑</a>**
+**[iPhone和 iPad](./ios.md)**&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;**[安卓](./android.md)**&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;**[Windows](./windows.md)**&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;**[Mac电脑](./mac.md)**
 
 > 安卓指所有国产手机和平板，比如小米、OPPO、vivo、华为（不能是纯血鸿蒙系统）等
 
@@ -34,13 +35,13 @@
 
 <div align="center">
 
-# 以下为新手必看
+# 以下为新手必看</span>
 
 </div>
 
 <div align="center">
 
-## **<a href="./assets/theory.md" rel="noopener noreferrer" target="_blank">VPN的原理是什么</a>**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**<a href="./assets/VPN.md" rel="noopener noreferrer" target="_blank">翻墙的方式有哪些</a>**  
+## **[VPN的原理是什么](./assets/theory.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[翻墙的方式有哪些](./assets/VPN.md)**  
 
 </div>
 
@@ -79,7 +80,7 @@
 ## VPN违法吗？
 
 - **公众人物**：何同学、影视飓风、老番茄、手工耿、中国BOY 及很多百万粉级别 up 主都在运营 YouTube 频道  
-  <a href="https://x.com/leijun" rel="noopener noreferrer" target="_blank">雷军 @leijun</a>、<a href="https://x.com/lang_lang" rel="noopener noreferrer" target="_blank">朗朗 @lang_lang</a>、<a href="https://x.com/HTX_Studio" rel="noopener noreferrer" target="_blank">何同学 @HTX_Studio</a> 入驻 X（公众人物入驻 X 的不太多）  
+  雷军 [@leijun](https://x.com/leijun)、朗朗 [@lang_lang](https://x.com/lang_lang)、何同学 [@HTX_Studio](https://x.com/HTX_Studio) 入驻 X（公众人物入驻 X 的不太多）  
 - **国内媒体**：人民日报、新华社、CCTV 等官方入驻 YouTube 和 X  
 - **国内高校**：清华、北大、上交、复旦等入驻 YouTube 和 X  
 - **国内公司**：华为（X 上粉丝超千万）、百度、腾讯、DeepSeek、小米、阿里巴巴、MiniMax 等入驻 X
@@ -106,14 +107,14 @@
 
 - **Google**：几乎所有国际软件都可用它一键注册。大于 30 亿月活用户  
 - **YouTube**：类似 bilibili，横屏视频网站。25 亿月活用户  
-  <a href="https://www.youtube.com/watch?v=WSPI21gUpCs" rel="noopener noreferrer" target="_blank">YouTube 使用教程</a>  
+  [YouTube 使用教程](https://www.youtube.com/watch?v=WSPI21gUpCs)  
 - **Telegram**：集群聊社交、频道、机器人服务功能于一身的加密社交软件。10 亿月活用户  
-  <a href="https://www.youtube.com/watch?v=84UHgvfCcec" rel="noopener noreferrer" target="_blank">Telegram 使用教程</a>  
+  [Telegram 使用教程](https://www.youtube.com/watch?v=84UHgvfCcec)  
 - **TikTok**：抖音国际版。15 亿月活用户  
-  <a href="https://www.youtube.com/watch?v=p0v08l2B5Q0" rel="noopener noreferrer" target="_blank">TikTok 使用教程</a>  
+  [TikTok 使用教程](https://www.youtube.com/watch?v=p0v08l2B5Q0)  
 - **Instagram**：图文和视频分享平台，类似小红书。2 亿月活用户  
-  <a href="https://www.youtube.com/watch?v=id9ngLsQorA" rel="noopener noreferrer" target="_blank">Instagram 使用教程</a>  
+  [Instagram 使用教程](https://www.youtube.com/watch?v=id9ngLsQorA)  
 - **X（原推特）**：类似微博，博客平台。6 亿月活用户  
-  <a href="https://www.youtube.com/watch?v=NZjXp-KQOY8" rel="noopener noreferrer" target="_blank">X 使用教程</a>  
+  [X 使用教程](https://www.youtube.com/watch?v=NZjXp-KQOY8)  
 - **Netflix**：付费影视平台，类似爱奇艺、腾讯视频  
 - **Spotify**：付费音乐、播客平台，类似网易云音乐  
