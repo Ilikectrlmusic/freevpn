@@ -1,3 +1,4 @@
+帮我把以下文本转换为符合GitHub上文本格式的markdown文本，且将所有链接改为点击后在新的标签页打开，不要修改排版，只输出修改后文本：
 <div align="center">
 
 # 这是一个公益免费VPN
@@ -41,7 +42,7 @@
 
 <div align="center">
 
-## **[VPN的原理是什么](./assets/theory.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[翻墙的方式有哪些](./assets/VPN.md)**  
+## **[VPN的原理是什么，翻墙的方式有哪些](./assets/VPN.md)**  
 
 </div>
 
