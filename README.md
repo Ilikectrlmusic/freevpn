@@ -1,6 +1,6 @@
 <div align="center">
 
-# 这是一个公益免费VPN
+# 这是一个免费公益VPN
 
 </div>
 
