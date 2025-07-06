@@ -30,14 +30,14 @@
 
 ## 4. 路由设置  
 
-默认分流，但因为软件 Bug，分流大概率会使节点都无法使用
+默认分流，但因为软件 Bug，分流大概率会使节点都无法使用。
 
 <p align="center">
   <img src="./assets/image/android/9.jpg" width="45%"/>
   <img src="./assets/image/android/10.jpg" width="45%"/>
 </p>
 
-## 5. 更新订阅，有效期过了后也相同操作来获取最新节点  
+## 5. 更新订阅。有效期过了后也相同操作来获取最新节点  
 
 <p align="center">
   <img src="./assets/image/android/11.jpg" width="30%"/>
@@ -53,7 +53,7 @@
   <img src="./assets/image/android/14.jpg" width="30%"/>
   <img src="./assets/image/android/15.jpg" width="30%"/>
 </p>
-
+<br><br> 
 <p align="center">
   <img src="./assets/image/android/16.jpg" width="30%"/>
 </p>
@@ -70,16 +70,16 @@
 
 单击选择节点  
 右下角按钮是开关
-
+<br><br> 
 <p align="center">
   <img src="./assets/image/android/17.jpg" width="30%"/>
 </p>
 
 首次开启会申请权限，点“确定”
-
+<br><br> 
 <p align="center">
   <img src="./assets/image/android/18.jpg" width="30%"/>
   <img src="./assets/image/android/19.jpg" width="30%"/>
 </p>
 
-打开后访问 [ip125.com](http://ip125.com)，出现外国地址即说明你成功了！🎉
+打开后访问 [ip125.com](http://ip125.com)，出现外国地址就说明你成功了！🎉
