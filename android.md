@@ -75,7 +75,7 @@
 <p align="center">
   <img src="./assets/image/android/17.jpg" width="30%"/>
 </p>
-
+<br><br> 
 首次开启会申请权限，点“确定”
 <br><br> 
 <p align="center">
