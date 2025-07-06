@@ -37,6 +37,8 @@
   <img src="./assets/image/android/10.jpg" width="45%"/>
 </p>
 
+关掉这2个开关
+
 ## 5. 更新订阅。有效期过了后也相同操作来获取最新节点  
 
 <p align="center">
