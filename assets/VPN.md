@@ -14,9 +14,3 @@ GFW 以为你在访问正常网站，放行 → 国外代理服务器收到“�
 正常通信 → 代理服务器收到谷歌网站内容，并发送给你 → 你看见谷歌网站
 
 👉 [点击观看视频讲解](https://www.youtube.com/watch?v=ZT-q6mJ-e3g)
-
-hello  
----
-hello 
---- 
-hello  
