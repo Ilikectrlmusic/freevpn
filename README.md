@@ -1,6 +1,6 @@
 <div align="center">
 
-# 这是一个免费公益VPN
+# 这是一个公益免费VPN
 
 </div>
 
@@ -21,7 +21,7 @@
 如果你知道订阅链接是什么，直接使用（注意看用作提示的节点，有效期过了记得更新订阅）  
 `https://gitee.com/leohuangdev/subscribe/raw/master/subscribe.txt`
 
-如果你不了解订阅链接，以下是为纯小白准备的详细教程：  
+如果你不了解订阅链接，以下是为纯小白提供的详细教程：  
 
 **[iPhone和 iPad](./ios.md)**&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;**[安卓](./android.md)**&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;**[Windows](./windows.md)**&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;**[Mac电脑](./mac.md)**
 
@@ -41,7 +41,11 @@
 
 <div align="center">
 
-## **[VPN的原理和基本概念](./assets/VPN.md)**  
+## **[VPN原理](./assets/VPN.md)**  
+
+<br><br>  
+
+## **[常用概念](./assets/theory.md)**  
 
 </div>
 
