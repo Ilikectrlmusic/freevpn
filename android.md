@@ -8,7 +8,6 @@
   <img src="./assets/image/android/2.jpg" width="30%"/>
   <img src="./assets/image/android/3.jpg" width="30%"/>
 </p>
-
 订阅链接：  
 > https://gitee.com/leohuangdev/subscribe/raw/master/subscribe.txt
 
