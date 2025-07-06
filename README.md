@@ -45,7 +45,7 @@
 
 ### **[翻墙常用概念](./assets/theory.md)**    
 
-### **[外网常用平台](./assets/platforms.md)**  
+### **[外网常用软件](./assets/platforms.md)**  
 
 ## 为什么要翻墙？
 
