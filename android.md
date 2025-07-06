@@ -8,6 +8,7 @@
   <img src="./assets/image/android/2.jpg" width="30%"/>
   <img src="./assets/image/android/3.jpg" width="30%"/>
 </p>
+
 <br><br> 
 
 订阅链接：`https://gitee.com/leohuangdev/subscribe/raw/master/subscribe.txt`  
@@ -55,7 +56,9 @@
   <img src="./assets/image/android/14.jpg" width="30%"/>
   <img src="./assets/image/android/15.jpg" width="30%"/>
 </p>
+
 <br><br> 
+
 <p align="center">
   <img src="./assets/image/android/16.jpg" width="30%"/>
 </p>
@@ -69,15 +72,19 @@
   <img src="./assets/image/android/16.jpg" width="30%"/>
 </p>
 
-单击选择节点  
-右下角按钮是开关
+单击选择节点。  
+右下角按钮是开关。
+
 <br><br> 
+
 <p align="center">
   <img src="./assets/image/android/17.jpg" width="30%"/>
 </p>
+
+首次开启会申请权限，点“确定”。
+
 <br><br> 
-首次开启会申请权限，点“确定”
-<br><br> 
+
 <p align="center">
   <img src="./assets/image/android/18.jpg" width="30%"/>
   <img src="./assets/image/android/19.jpg" width="30%"/>
