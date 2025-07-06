@@ -61,8 +61,7 @@
 </p>
 
 节点延迟不为 “-1” 的才能使用  
-> 只有 787、784、782、783 开头，即标的有国家的节点能访问 ChatGPT 等使用了 Cloudflare CDN 的网站，且访问也不稳定  
-> [比如这些网站](./assets/cloudflareCDN.md)
+> 只有 787、784、782、783 开头，即标的有国家的节点能访问 ChatGPT 等使用了 Cloudflare CDN 的网站，且访问也不稳定。[比如这些网站](./assets/cloudflareCDN.md)  
 
 ## 7. 使用节点  
 
