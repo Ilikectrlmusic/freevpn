@@ -9,7 +9,7 @@
   <img src="./assets/image/android/3.jpg" width="30%"/>
 </p>
 <br><br> 
-订阅链接： `https://gitee.com/leohuangdev/subscribe/raw/master/subscribe.txt`  
+订阅链接： `https://gitee.com/leohuangdev/subscribe/raw/master/subscribe.txt`
 
 <p align="center">
   <img src="./assets/image/android/4.jpg" width="30%"/>
