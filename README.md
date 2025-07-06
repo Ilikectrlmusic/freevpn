@@ -41,7 +41,7 @@
 
 <div align="center">
 
-## **[VPN的原理是什么，翻墙的方式有哪些](./assets/VPN.md)**  
+## **[VPN的原理和基本概念](./assets/VPN.md)**  
 
 </div>
 
