@@ -8,7 +8,7 @@
    - Instagram、Facebook 等 Meta 的产品，一注册就封号  
    - 加速 Steam 上游戏有封号风险  
    - TikTok 发视频会限流  
-   - 访问 Google 会要求人机验证  
+   - 访问 Google 有概率会要求人机验证  
 
 ## 使用教程
 
