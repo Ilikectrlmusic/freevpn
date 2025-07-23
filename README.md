@@ -1,8 +1,8 @@
 <div align="center">
 
-</div>
-
 # 这是一个公益免费VPN
+
+</div>
 
 ## 缺点：IP 为数据中心 IP，且会强制随机切换。对账号安全要求高的公司会对其限制  
    - Instagram、Facebook 等 Meta 的产品，一注册就封号  
