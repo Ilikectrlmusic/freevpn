@@ -10,6 +10,6 @@
 
 **用 VPN 可以访问外网**：  
 你访问 google，设备上的 VPN 软件将“访问 google”的请求发送到国外代理服务器而不是谷歌服务器 &nbsp;&nbsp;&nbsp;&nbsp;→&nbsp;&nbsp;&nbsp;&nbsp; GFW 以为你在访问正常网站，放行  
-&nbsp;&nbsp;&nbsp;&nbsp;→&nbsp;&nbsp;&nbsp;&nbsp; 国外代理服务器收到“访问 google”的请求并自己访问 google &nbsp;&nbsp;&nbsp;&nbsp;→&nbsp;&nbsp;&nbsp;&nbsp; 正常通信  &nbsp;&nbsp;&nbsp;&nbsp;→&nbsp;&nbsp;&nbsp;&nbsp; 代理服务器收到谷歌网站内容，并发送给你 &nbsp;&nbsp;&nbsp;&nbsp;→&nbsp;&nbsp;&nbsp;&nbsp; 你看见谷歌网站
+&nbsp;&nbsp;&nbsp;&nbsp;→&nbsp;&nbsp;&nbsp;&nbsp; 国外代理服务器收到“访问 google”的请求并自己访问 google &nbsp;&nbsp;&nbsp;&nbsp;→&nbsp;&nbsp;&nbsp;&nbsp; 正常通信    &nbsp;&nbsp;&nbsp;&nbsp;→&nbsp;&nbsp;&nbsp;&nbsp; 代理服务器收到谷歌网站内容，并发送给你 &nbsp;&nbsp;&nbsp;&nbsp;→&nbsp;&nbsp;&nbsp;&nbsp; 你看见谷歌网站
 
 👉 [点击观看视频讲解](https://www.youtube.com/watch?v=ZT-q6mJ-e3g)
